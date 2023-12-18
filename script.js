@@ -19,9 +19,9 @@ let countdown;
 const quizArray = [
     {
         id: "0",
-        question: "1)In a class of 140 students  numbered 1 to 140, all even numbered students opted for Mathematics course, those whose number is divisible by 3 opted for physics course and those whose number  is divisible by 5 opted for Chemistry course.  Then the number of students who did not opt for any of the three courses is ",
-        options: ["102", "42", "1", "38"],
-        correct: "38",
+        question: "What is the formula for electric potential energy (U) in an electric field ?",
+        options: [" U = QV", "U = CV^2", "U = 1/2 CV^2", "U = Q/C"],
+        correct: "U = QV",
     },
     {
         id: "1",
@@ -31,9 +31,9 @@ const quizArray = [
     },
     {
         id: "2",
-        question: "A survey shows that 73% of the persons working in an office like coffee, whereas 65%like tea. If x denotes the percentage of them, who like both coffee and tea, then x CANNOT be.",
-        options: ["63", "38", "54", "36"],
-        correct: "36",
+        question: "What is the SI unit of magnetic field strength ?",
+        options: ["Tesla", "Weber", "Henry", " Ampere per meter"],
+        correct: " Ampere per meter",
     },
     {
         id: "3",
@@ -43,9 +43,9 @@ const quizArray = [
     },
     {
         id: "4",
-        question: "If the 2nd 5th and 9th terms of a non-constant A.P. are in G. P., then the common ratio of this G.P. is",
-        options: ["4/3", "1", "7/4", "8/5"],
-        correct: "4/3",
+        question: " In a nuclear reactor, which particles initiate the chain reaction ?",
+        options: ["Neutrons", "Electrons", "Protons", "Alpha particles"],
+        correct: "Neutrons",
     },
     {
         id: "5",
@@ -54,9 +54,9 @@ const quizArray = [
         correct: "2/3",
     }, {
         id: "6",
-        question: "The sum of all two-digit positive numbers which when divided by 7 yield 2 or 5 as remained is ",
-        options: ["1365", "1256", "1465", "1356"],
-        correct: "1356",
+        question: "What phenomenon is responsible for the creation of rainbow colors in a prism ? ",
+        options: ["Diffraction", "Refraction", "Dispersion", "Reflection"],
+        correct: "Dispersion",
     },
     {
         id: "7",
@@ -66,15 +66,21 @@ const quizArray = [
     },
     {
         id: "8",
-        question: "Some identical balls are arranged in rows to form an equilateral triangle.  The first row consists of one ball, the second row consists of two balls and so on.  If 99 more identical balls are added to the total number of balls used in forming the equilateral triangle, then all these balls canbe arranged in a square whose each side contains exactly 2 balls less than the number of balls each side of the triangle contains.  Then the number of balls used to form the equilateral triangle is",
-        options: ["190", "225", "262", "157"],
-        correct: "190",
+        question: "What is the SI unit of inductance ?",
+        options: ["Henry", "Farad", "Ohm", "Volt-second"],
+        correct: "Henry",
     },
     {
         id: "9",
         question: "The number of integers greater than 6,000 that can be formed, using the gigits 3, 5, 6, 7 and 8 without repetition , is ",
         options: ["216", "192", "120", "146"],
         correct: "192",
+    },
+    {
+        id: "10",
+        question: " What is the energy source that powers the sun ?",
+        options: ["Nuclear fission", "Nuclear fusion", "Chemical reactions", "Gravitational potential energy"],
+        correct: "Gravitational potential energy",
     },
 ];
 

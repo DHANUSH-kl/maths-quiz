@@ -25,9 +25,9 @@ const quizArray = [
     },
     {
         id: "1",
-        question: "2Two newspapers A and B are published in a city.  It is known that 25% of the city population reads A and 20% reads B while 8% reads both A and B. Further, 30% of those who Read A but not B look into advertisements and 40 % of those who read B but not A also look into advertisements, while 50% of those who read both A and B look into advertisements.  Then the percentage of the population who look into advertisements is.",
-        options: [" 12.8", "13", "13.5", "13.93"],
-        correct: "13.93",
+        question: " What is the derivative of the function \(f(x) = 3x^2 + 2x - 1\) with respect to \(x\) ?",
+        options: ["(6x + 2)", "(3x^2 + 2x)", "(6x - 2)", "(6x + 1)"],
+        correct: "(6x + 2)",
     },
     {
         id: "2",
@@ -37,9 +37,9 @@ const quizArray = [
     },
     {
         id: "3",
-        question: "3Out of all the patients in a hospital 89% are found to be suffering from heart a ailment and 98% are suffering from lungs infection.  If K% of them are suffering from both aliments, then K can not belong to the set",
-        options: ["{79, 81, 83, 85}", "{84, 87, 90, 93}", "{ 80, 83, 86, 89}	", "{84, 86, 88, 90}"],
-        correct: "{84, 86, 88, 90}",
+        question: "  The eigen values of a 2x2 identity matrix are :",
+        options: ["0,1", "1,1", "0,0,", "1,-1"],
+        correct: "1,1",
     },
     {
         id: "4",
@@ -49,9 +49,9 @@ const quizArray = [
     },
     {
         id: "5",
-        question: "The sum of an infinite geometric series with positive terms is 3 and the sums of the cubes of its terms in 27/29 them the common ratio of this series is ",
-        options: ["4/9", "2/9", "2/3", "1/3"],
-        correct: "2/3",
+        question: "If (A) and (B) are matrices, which of the following is true about the product (AB) if (A) is a 3x2 matrix and (B) is a 2x4 matrix ?",
+        options: ["(AB) is not defined", "(AB) is a 3x4 matrix", "(AB) is a 2x2 matrix", "(AB) is a 2x4 matrix"],
+        correct: "(AB) is a 2x2 matrix",
     }, {
         id: "6",
         question: "What phenomenon is responsible for the creation of rainbow colors in a prism ? ",
@@ -60,9 +60,9 @@ const quizArray = [
     },
     {
         id: "7",
-        question: "The product of three consecutive terms of a G.P. is 512, If 4 is added to each of the first and the second of these terms, the three terms now form and A.P., Then the sum of the original three terms of the given G.P. is.",
-        options: ["36", "24", "32", "28"],
-        correct: "28",
+        question: "In linear algebra, the rank of a matrix is :",
+        options: ["The determinant of the matrix", "The number of rows in the matrix", "The maximum number of linearly independent rows or columns", " The sum of all elements in the matrix"],
+        correct: "The maximum number of linearly independent rows or columns",
     },
     {
         id: "8",
@@ -72,9 +72,9 @@ const quizArray = [
     },
     {
         id: "9",
-        question: "The number of integers greater than 6,000 that can be formed, using the gigits 3, 5, 6, 7 and 8 without repetition , is ",
-        options: ["216", "192", "120", "146"],
-        correct: "192",
+        question: " In probability theory, what is the complement of an event A ?",
+        options: ["Event A itself", "The intersection of events A and B", "The union of events A and B", "The event not A"],
+        correct: "The event not A",
     },
     {
         id: "10",

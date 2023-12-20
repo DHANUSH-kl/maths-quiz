@@ -32,8 +32,8 @@ const quizArray = [
     {
         id: "2",
         question: "What is the SI unit of magnetic field strength ?",
-        options: ["Tesla", "Weber", "Henry", " Ampere per meter"],
-        correct: " Ampere per meter",
+        options: ["Tesla", "Weber", "Henry", "Ampere per meter"],
+        correct: "Ampere per meter",
     },
     {
         id: "3",
@@ -80,7 +80,7 @@ const quizArray = [
         id: "10",
         question: " What is the energy source that powers the sun ?",
         options: ["Nuclear fission", "Nuclear fusion", "Chemical reactions", "Gravitational potential energy"],
-        correct: "Gravitational potential energy",
+        correct: "Nuclear fusion",
     },
     {
         id: "11",

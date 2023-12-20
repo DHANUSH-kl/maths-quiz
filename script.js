@@ -82,6 +82,91 @@ const quizArray = [
         options: ["Nuclear fission", "Nuclear fusion", "Chemical reactions", "Gravitational potential energy"],
         correct: "Gravitational potential energy",
     },
+    {
+        id: "11",
+        question: "What type of bonding is present in methane (CH₄) ?",
+        options: ["Ionic", "Covalent", "Metallic", "Coordinate"],
+        correct: "Covalent",
+    },
+    {
+        id: "12",
+        question: "Which of the following is a noble gas ?",
+        options: ["Oxygen", "Nitrogen", "Helium", "Fluorine"],
+        correct: "Helium",
+    },
+    {
+        id: "13",
+        question: "The pH of a neutral solution is :",
+        options: ["0", "7", "14", "1"],
+        correct: "7",
+    },
+    {
+        id: "14",
+        question: "The process of conversion of a liquid into a gas at its boiling point is called :",
+        options: ["Evaporation", "Condensation", "Sublimation", "Vaporization"],
+        correct: "Vaporization",
+    },
+    {
+        id: "15",
+        question: "What is the electron configuration of chlorine ?",
+        options: ["1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d¹⁰ 4p⁶", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶"],
+        correct: "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d¹⁰ 4p⁶",
+    },
+    {
+        id: "16",
+        question: "Which of the following elements exhibits the highest electronegativity ?",
+        options: ["Fluorine", "Oxygen", "Nitrogen", "Chlorine"],
+        correct: "Fluorine",
+    },
+    {
+        id: "17",
+        question: "The Nernst equation is related to which aspect of electrochemistry ?",
+        options: ["Faraday's laws", "Electrolysis", "Galvanic cells", " Rate of reaction"],
+        correct: "Galvanic cells",
+    },
+    {
+        id: "18",
+        question: "Which of the following elements exhibits the highest electronegativity ?",
+        options: ["Fluorine", "Oxygen", "Nitrogen", "Chlorine"],
+        correct: "Fluorine",
+    },
+    {
+        id: "19",
+        question: "What comes next in the sequence: 2, 6, 12, 20, _?",
+        options: ["26", "28", "30", "32"],
+        correct: "28",
+    },
+    {
+        id: "20",
+        question: "What is the missing number in the series: 8, 27, _, 125, 216 ?",
+        options: ["36", "64", "81", "100"],
+        correct: "81",
+    },
+    {
+        id: "21",
+        question: "If the day after tomorrow is a Sunday, what day is it today ?",
+        options: ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        correct: "Tuesday",
+    },
+    {
+        id: "22",
+        question: "What is the next shape in the pattern: Square, Circle, Triangle, Square, _?",
+        options: ["Circle", "Rectangle", "Pentagon", "Hexagon"],
+        correct: "Circle",
+    },
+    {
+        id: "23",
+        question: "If a shirt costs $20 after a 25% discount, what was its original price?",
+        options: ["$15", "$25", "$22.50", "$30"],
+        correct: "$30",
+    },
+    {
+        id: "24",
+        question: "If 8 – 3 = 24, 6 – 2 = 16, 9 – 7 = 14, what is 5 – 4?",
+        options: ["5", "6", "7", "8"],
+        correct: "6",
+    },
+    
 ];
 
 //Restart Quiz

@@ -5,7 +5,7 @@ let nextBtn = document.getElementById("next-button");
 let countOfQuestion = document.querySelector(".number-of-question");
 let displayContainer = document.getElementById("display-container");
 let scoreContainer = document.querySelector(".score-container");
-let restart = document.getElementById("restart")
+let restart = document.getElementById("restart");
 let userScore = document.getElementById("user-score");
 let startScreen = document.querySelector(".start-screen");
 let startButton = document.getElementById("start-button");
@@ -297,7 +297,7 @@ function initial() {
 }
 
 //when user click on start button
-startButton.addEventListener("click", () => {
+startButton.addEventListener("click", () => {D
     startScreen.classList.add("hide");
     displayContainer.classList.remove("hide");
     initial();

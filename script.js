@@ -297,7 +297,7 @@ function initial() {
 }
 
 //when user click on start button
-startButton.addEventListener("click", () => {D
+startButton.addEventListener("click", () => {
     startScreen.classList.add("hide");
     displayContainer.classList.remove("hide");
     initial();
